@@ -1,0 +1,17 @@
+.bluebody{
+    background-color: lightblue;
+    }
+.greybody{
+    background-color: grey;
+}
+.yellowbody{
+    background-color: yellow;
+}
+.orangebody{
+    background-color: orange;
+}
+h1 {
+     text-align: center;
+     color: red;
+     
+    }
